@@ -1,4 +1,4 @@
-[![CI](https://github.com/sims-lab/pipeline_template/actions/workflows/build.yml/badge.svg)](https://github.com/sims-lab/pipeline_template/actions/workflows/build.yml)
+[![CI](https://github.com/kevinrue/pipeline_tutorial/actions/workflows/build.yml/badge.svg)](https://github.com/kevinrue/pipeline_tutorial/actions/workflows/build.yml)
 
 # pipeline_template
 
